@@ -1,0 +1,1 @@
+### Practices based on [Python for Data Analysis](https://library.oreilly.com/book/0636920023784/python-for-data-analysis/toc)

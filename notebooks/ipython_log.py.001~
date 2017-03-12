@@ -1,0 +1,19 @@
+# IPython log file
+
+get_ipython().magic('reset')
+get_ipython().magic('history')
+get_ipython().magic('history')
+get_ipython().magic('history')
+get_ipython().magic('reset')
+get_ipython().magic('history')
+get_ipython().magic('reset')
+# 顯示interactive命名空間中定義的變數
+get_ipython().magic('whos')
+# 顯示interactive命名空間中定義的變數
+b = [1,2,3]
+get_ipython().magic('who')
+# 顯示interactive命名空間中定義的變數
+get_ipython().magic('whos')
+# 執行%logstart可開始記錄日誌
+get_ipython().magic('logstart')
+get_ipython().magic('logstop')
